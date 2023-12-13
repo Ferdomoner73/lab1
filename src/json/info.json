@@ -1,0 +1,40 @@
+{
+  "regulations": [
+    {
+      "title": "Закон України Про основні засади забезпечення кібербезпеки України",
+      "link": "https://zakon.rada.gov.ua/laws/show/2163-19"
+    },
+    {
+      "title": "Закон України Про захист інформації в інформаційно-телекомунікаційних системах",
+      "link": "https://zakon.rada.gov.ua/laws/show/80/94-%D0%B2%D1"
+    },
+    {
+      "title": "Закон України Про телекомунікації",
+      "link": "https://zakon.rada.gov.ua/rada/show/v0001864-22"
+    },
+    {
+      "title": "Закон України Про державну таємницю",
+      "link": "https://zakon.rada.gov.ua/laws/show/3855-12"
+    },
+    {
+      "title": "Закон України Про захист персональних даних",
+      "link": "https://zakon.rada.gov.ua/laws/show/2297-17"
+    },
+    {
+      "title": "Закон України Про основні засади забезпечення кібербезпеки України",
+      "link": "https://zakon.rada.gov.ua/laws/show/447/2021"
+    },
+    {
+      "title": "Указ Президента України Про Стратегію національної безпеки України",
+      "link": "https://zakon.rada.gov.ua/laws/show/n0005525-20"
+    },
+    {
+      "title": "Указ Президента України Про Національну програму з питань кібербезпеки",
+      "link": "https://zakon.rada.gov.ua/laws/show/n0087525-21"
+    },
+    {
+      "title": "Закон України Про інформацію",
+      "link": "https://zakon.rada.gov.ua/laws/show/2657-12"
+    }
+  ]
+}
